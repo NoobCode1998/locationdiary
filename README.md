@@ -19,6 +19,12 @@ each time you go to a place You can mark the place youve been by
 
  1. Scan Qr code of the location 
             we assume most places(public) have the qr code registered.The Qr Code data has name of the place and a string "pLc" appended to its starting to identify it as public place
+            
+            
+            
  2.Scan The Qr code of other users of the app
             once you scan somones QR code a mutual contact is added to both the peoples diaries .(if x scans Y  then both X's duary and Y's Diary shows that they've met )
+            
+            
+            
  3.Automatically logging of location data for later usage.
