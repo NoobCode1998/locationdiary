@@ -13,6 +13,8 @@ Salient Features
 This app tracks location of the user continuously and adds it to your covid diary. When people meet, if X meets Y, X could scan QR in Y's phone and both of their diaries would be updated with required data. From the list of places visited, users can find that location on the map on click of a button (Google map opens with a marker at the selected location). This app automatically logs your current location data periodically even after the termination of the app.
 
 Usage
+
+
 Once logged in your name and phone number identifies you
 A QR code is shown in your homepage from the time you first login. The data of this qe code is "p-Ee-r"+(your name). The string concatenated before your name helps the app to identify you as a person and not a place.
 each time you go to a place You can mark the place youve been by
